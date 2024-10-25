@@ -18,7 +18,6 @@
 ## Tecnologias que eu Estudo Designer no Meu Dia Dia
 
 <div> <br>
-<img alingn="center" alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
 <img alingn="center" alt="Adobe photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 
 </div>
