@@ -16,12 +16,6 @@ Atualmente cursando faculdade na área de tecnologia, apaixonado por aprender e 
 
 Apesar de ainda não ter projetos próprios publicados, estou sempre praticando, estudando e evoluindo com repositórios ativos. Confira alguns dos meus repositórios favoritos:
 
-- [HS_luck](https://github.com/HenriqueeSantana/HS_luck)
-- [HS-Optimization-Inteligente](https://github.com/HenriqueeSantana/HS-Optimization-Inteligente)
-- [Meu-Repositorio](https://github.com/HenriqueeSantana/Meu-Repositorio)
-- [Meu-Link](https://github.com/HenriqueeSantana/Meu-Link)
-- [One-Page-Portifolio---Henrique](https://github.com/HenriqueeSantana/One-Page-Portifolio---Henrique)
-
 ## 📲 Vamos nos conectar!
 
 [![Instagram](https://img.shields.io/badge/-@__henrique.sant_-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/__henrique.sant/)](https://www.instagram.com/__henrique.sant/)
